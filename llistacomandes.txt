@@ -1,0 +1,53 @@
+*********************
+* Comandes de Linux *
+*********************
+
+______________________________________________________________
+pwd: Mostra la ruta actual on es troba situat l'usuari.
+
+______________________________________________________________
+ls [opcions] [ruta]: Mostra el contingut del directori actual.
+  [opcions]:
+     -l -> mostra llistat llarg.
+         -a -> mostra fitxers que comencen per punt.
+
+______________________________________________________________
+touch fitxer: Crea un fitxer.
+
+______________________________________________________________
+mv fitxer path: Mou un fitxer escollit a una nova direcció.
+
+______________________________________________________________
+cat fitxer: Mostra el contingut d'un fitxer.
+
+______________________________________________________________
+mkdir directori: Crea un nou directori en el directori actual. Els noms dels nous directoris no poden tenir espais en blanc.
+  [opcions]:
+    -p -> Crea els directoris que no existeixen dins la ruta especificada.
+
+______________________________________________________________
+rmdir directori: Esborra un directori. Aquest ha d'estar buit o no es permetrà esborrar-lo.
+
+______________________________________________________________
+cp origen destí: Copia un fitxer escollit a una nova direcció.
+  [opcions]:
+    -f -> força la sobreescriptura.
+        -i -> mode interactiu.
+        -u -> Es realitzarà la còpia si el fitxer d'origen és més recent.
+
+______________________________________________________________
+cd directori: Canvia el directori actual al directori demanat.
+  cd .. per retrocedir un nivell.
+
+______________________________________________________________
+clear: Neteja la pantalla.
+
+______________________________________________________________
+man comanda: Mostra el manual online de la comanda demanada.
+
+______________________________________________________________
+logout/exit: Desconnecta la sessió actual.
+
++++++++++++++++++++++++
+++DO NOT DELET PLEASE++
++++++++++++++++++++++++
